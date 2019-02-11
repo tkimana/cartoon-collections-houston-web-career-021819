@@ -1,7 +1,8 @@
-def roll_call_dwarves(name,array)
-  puts ["Doc","Dopey","Bashful","Grumpy"]
-  
-end
+def roll_call_dwarves(name,array){
+if ["Doc","Dopey","Bashful","Grumpy"]
+}else ["Dad","Repair"]
+    
+  end
 
 def summon_captain_planet
 end
